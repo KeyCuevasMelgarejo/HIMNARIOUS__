@@ -15,7 +15,7 @@
 - Cantos de alabanza y adoraciòn
 - Fragancia musical
 
-Ademàs de cantos bìblicos y coritos.
+Además de cantos bìblicos y coritos.
 
 # Himnarious - Inicialización
 
