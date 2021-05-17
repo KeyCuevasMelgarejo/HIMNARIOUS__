@@ -2,9 +2,23 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# Himnarious - Inicialización ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FHIMNARIOUS___PREVIEW)
+# Himnarious - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FHIMNARIOUS___PREVIEW)
+<p align="center"> 
+    <img src="/Demo.gif"/>
+</p>
 
-**Puedes descargar cualquier version, ejecutar el archivo, darle F5 y verás Himnarious en uso**
+# Himnarious - Descripción del Proyecto
+**La presentación PowerPoint habilitada para macros contiene los siguientes himnarios:**
+- Himnos Majestuosos
+- Himnario Bautista
+- Celebremos su gloria
+- Cantos de alabanza y adoraciòn
+- Fragancia musical
+*Ademàs de cantos bìblicos y coritos*
+
+# Himnarious - Inicialización
+
+**Puedes descargar cualquier version, ejecutar el archivo, selecciona habilitar macros y verás Himnarious en uso**
 
 ## Pasos
 
