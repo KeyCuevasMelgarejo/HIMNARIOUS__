@@ -7,7 +7,7 @@
     <img src="/Demo.gif"/>
 </p>
 
-# Himnarious - Descripción del Proyecto
+# Descripción del Proyecto
 **La presentación PowerPoint habilitada para macros contiene los siguientes himnarios:**
 - Himnos Majestuosos
 - Himnario Bautista
@@ -17,17 +17,12 @@
 
 Además de cantos bìblicos y coritos.
 
-# Himnarious - Inicialización
+# Guía y Uso
+Puedes ingresar al siguiente video [pendiente] donde verás una guía del uso del proyecto.
 
-**Puedes descargar cualquier version, ejecutar el archivo, selecciona habilitar macros y verás Himnarious en uso**
+# Descarga
 
-## Pasos
-
-Para clonar y correr el repositorio necesitas instalar primero [Git](https://git-scm.com). Desde el terminal ingresa una por una las siguientes lineas:
-
-```bash
-# Clona este repositorio
-git clone https://github.com/KeyCuevasMelgarejo/HIMNARIOUS
-```
-
-En el caso que no quieras descargar todo el repositorio con cada una de las versiones, simplemente puedes descargar la version que quieras; está por demás decir que debes tener Microsoft Power Point instalado en tu ordenador.
+(pendiente)
+<a href="">
+    <img alt="Descargar" title="Descargar HIMNARIOUS" src="https://shields.io/badge/-DESCARGA%20PARA%20WINDOWS-blue.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
