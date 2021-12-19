@@ -21,8 +21,8 @@ Además de cantos bìblicos y coritos.
 Puedes ingresar al siguiente video [pendiente] donde verás una guía del uso del proyecto.
 
 # Descarga
-
 (pendiente)
+
 <a href="">
     <img alt="Descargar" title="Descargar HIMNARIOUS" src="https://shields.io/badge/-DESCARGA%20PARA%20WINDOWS-blue.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </a>
