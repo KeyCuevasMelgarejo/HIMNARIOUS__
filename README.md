@@ -15,7 +15,7 @@ La presentación PowerPoint habilitada para macros contiene los siguientes himna
 - Cantos de alabanza y adoraciòn
 - Fragancia musical
 
-**Además de cantos bìblicos y coritos.
+** Además de cantos bìblicos y coritos.
 
 # Guía y Uso
 Puedes ingresar al siguiente video [pendiente] donde verás una guía del uso del proyecto.
