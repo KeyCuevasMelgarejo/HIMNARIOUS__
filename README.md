@@ -8,14 +8,14 @@
 </p>
 
 # Descripción del Proyecto
-La presentación PowerPoint habilitada para macros contiene los siguientes himnarios:**
+La presentación PowerPoint habilitada para macros contiene los siguientes himnarios:
 - Himnos Majestuosos
 - Himnario Bautista
 - Celebremos su gloria
 - Cantos de alabanza y adoraciòn
 - Fragancia musical
 
-** Además de cantos bìblicos y coritos.
+**Además de cantos bìblicos y coritos.**
 
 # Guía y Uso
 Puedes ingresar al siguiente video [pendiente] donde verás una guía del uso del proyecto.
