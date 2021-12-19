@@ -18,7 +18,9 @@ La presentación PowerPoint habilitada para macros contiene los siguientes himna
 Además de **cantos bíblicos y coritos.**
 
 # Guía y Uso
-Puedes ingresar al siguiente video [pendiente] donde verás una guía del uso del proyecto.
+(pendiente)
+
+Puedes ingresar al siguiente [video] donde verás una guía del uso del proyecto.
 
 # Descarga
 (pendiente)
