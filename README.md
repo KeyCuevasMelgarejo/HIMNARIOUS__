@@ -1,6 +1,6 @@
 ```bash
 # Pendiente
-# Se estan preparando los archivos(video[guía y uso] y el descargable)
+# Se estan preparando los archivos(video[guía y uso] y descargable)
 ```
 # Himnarious - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FHIMNARIOUS___PREVIEW)
 <p align="center"> 
