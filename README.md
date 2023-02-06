@@ -2,7 +2,7 @@
 # Pendiente
 # Se estan preparando los archivos(video[guía y uso] y descargable(.ppsm)
 ```
-# Himnarious - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FHIMNARIOUS___PREVIEW)
+# Himnarious - Demo
 <p align="center"> 
     <img src="/Demo.gif"/>
 </p>
